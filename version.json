@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "url_exe": "https://github.com/Gust1cereceda/cotizador-updates/releases/download/v1.0.1/CotizadorExpress_v1.0.1.exe",
-  "changelog": "- Mejoras en el cálculo de logística.\n- Corrección de bugs menores."
+  "version": "1.0.2",
+  "url_exe": "https://github.com/Gust1cereceda/cotizador-updates/releases/download/v1.0.2/Instalar_Cotizador_Express_v1.0.2.exe",
+  "changelog": "- Solución de problemas en el cálculo de logística en la hoja de costos\n- Mejora de diseño del cálculo de logística en la interfaz principal"
 }
