@@ -1,15 +1,5 @@
 {
   "version": "1.0.3",
   "url_exe": "https://github.com/Gust1cereceda/cotizador-updates/releases/download/v1.0.3/Instalar_Cotizador_Express_v1.0.3.exe",
-  "changelog": "Novedades de la versión
-
-Modo Prueba (Temporal): Nueva función para generar cotizaciones de testeo sin afectar las estadísticas ni generar documentos oficiales.
-
-Sistema de Pausas (Borradores): Ahora puedes pausar una cotización en curso para trabajar en otras, guardando tu progreso para reanudarla en el momento que estimes conveniente.
-
-Memoria Inteligente de URLs: Los datos que llenes manualmente de enlaces no extraíbles se guardarán de forma local para autocompletarse automáticamente si vuelves a consultar la misma URL en futuras sesiones.
-
-Mejoras de Validación: Optimización en la detección de errores específicos del ítem "Glosa".
-
-Sincronización: Mejorada la comunicación y el flujo de datos en tiempo real entre la mesa de Hoja de Costos y el Editor de Especificaciones de IA."
+  "changelog": "changelog": "Nuevas funciones: Modo Prueba (temporal) para testeo sin impacto oficial; Sistema de pausas para guardar y reanudar cotizaciones (borradores); Memoria de URLs para autocompletar datos manuales en futuras sesiones. Mejoras: Optimización en detección de errores en Glosa y mejor sincronización entre Hoja de Costos y Editor de Especificaciones."
 }
