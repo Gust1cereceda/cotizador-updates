@@ -1,5 +1,5 @@
 {
   "version": "1.0.3",
-  "url_exe": "https://github.com/Gust1cereceda/cotizador-updates/releases/download/v1.0.3/Instalar_Cotizador_Express_v1.0.3.exe",
-  "changelog": "changelog": "Nuevas funciones: Modo Prueba (temporal) para testeo sin impacto oficial; Sistema de pausas para guardar y reanudar cotizaciones (borradores); Memoria de URLs para autocompletar datos manuales en futuras sesiones. Mejoras: Optimización en detección de errores en Glosa y mejor sincronización entre Hoja de Costos y Editor de Especificaciones."
+  "url_exe": "https://github.com/Gust1cereceda/cotizador-updates/releases/download/v1.0.4/Instalar_Cotizador_Express_v1.0.4.exe",
+  "changelog": "changelog": "Nuevas funciones: Modo Prueba (temporal) para testeo sin impacto oficial; Sistema de pausas para guardar y reanudar cotizaciones (borradores); Memoria de URLs para autocompletar datos manuales en futuras sesiones. Mejoras: Optimización en detección de errores en Glosa y mejor sincronización entre Hoja de Costos y Editor de Especificaciones; Mejoras en el diseño e interfaz; Implementación del ID de Mercado Publico a la Cotización Formal."
 }
