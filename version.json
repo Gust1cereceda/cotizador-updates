@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
-  "url_exe": "https://github.com/Gust1cereceda/cotizador-updates/releases/download/v1.0.6/Instalar_Cotizador_Express_v1.0.6.exe",
-  "changelog": "• Archivo histórico automático de cotizaciones realizadas con fichas e imágenes optimizadas.\n• Nueva pestaña mensual 'Realizadas' con filtros por empresa/estado, adjudicación en 1 clic y papelera universal de 24h.\n• Buscador superior instantáneo por ID de licitación o N° de cotización, carga directa en mesa y función 'Usar como Plantilla'.\n• Exportación e importación de paquetes portables colaborativos (.cotz).\n• Modo de edición de costos reales para cotizaciones adjudicadas (OC congelada) con guardado directo en Hoja de Costos Excel.\n• Blindaje de estabilidad del ejecutable, navegador interno autónomo y actualizador OTA."
+  "version": "1.0.7",
+  "url_exe": "https://github.com/Gust1cereceda/cotizador-updates/releases/download/v1.0.7/Instalar_Cotizador_Express_v1.0.7.exe",
+  "changelog": "• Solució a error al autocompletar cantidades"
 }
