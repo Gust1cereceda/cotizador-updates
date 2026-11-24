@@ -1,5 +1,5 @@
 {
-  "version": "1.0.7",
-  "url_exe": "https://github.com/Gust1cereceda/cotizador-updates/releases/download/v1.0.7/Instalar_Cotizador_Express_v1.0.7.exe",
-  "changelog": "• Solució a error al autocompletar cantidades"
+  "version": "1.0.8",
+  "url_exe": "https://github.com/Gust1cereceda/cotizador-updates/releases/download/v1.0.8/Instalar_Cotizador_Express_v1.0.8.exe",
+  "changelog": "Solución de errores críticos y mejoras de estabilidad en la versión 1.0.8."
 }
